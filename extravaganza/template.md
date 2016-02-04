@@ -1,8 +1,7 @@
-Once a month, web developers from across Mozilla get together to do something.
-Meanwhile, we find time to talk about the work that we've shipped, share the
-libraries we're working on, meet new folks, and talk about whatever else is on
-our minds. It's the Webdev Extravaganza! The meeting is open to the public; you
-should stop by!
+Once a month, web developers from across Mozilla get together to talk about the
+work that we've shipped, share the libraries we're working on, meet new folks,
+and talk about whatever else is on our minds. It's the Webdev Extravaganza! The
+meeting is open to the public; you should stop by!
 
 You can check out the [wiki page][wiki] that we use to organize the meeting, or
 view a [recording of the meeting][recording] in Air Mozilla. Or just read on for
@@ -32,8 +31,6 @@ Foo  | Bar  | Baz
 The Roundtable is the home for discussions that don't fit anywhere else.
 
 ---
-
-We did things!
 
 If you're interested in web development at Mozilla, or want to attend next
 month's Extravaganza, subscribe to the
