@@ -23,8 +23,7 @@ shobson also mentioned the [View Source][] website, which is now offline-capable
 [Service Workers]: https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
 
 ### SHIELD Content Signing
-Next up was [mythmon][], who shared the news that [Normandy][], the backend service for [SHIELD][], now signs the data that it sends to Firefox using the [Autograph][] service. The signature is included with responses via the
-[Content-Signature][] header. This signing will allow Firefox to only execute SHIELD recipes that have been approved by Mozilla.
+Next up was [mythmon][], who shared the news that [Normandy][], the backend service for [SHIELD][], now signs the data that it sends to Firefox using the [Autograph][] service. The signature is included with responses via the [Content-Signature][] header. This signing will allow Firefox to only execute SHIELD recipes that have been approved by Mozilla.
 
 [mythmon]: https://mozillians.org/en-US/u/mythmon/
 [Normandy]: https://github.com/mozilla/normandy
